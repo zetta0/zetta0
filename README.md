@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zetta0
 - 👀 I'm interested in Cybersecurity
-- 🌱 I’m currently studying for CySA+ and learning Pentesting
+- 🌱 I’m currently studying for Pentest+
 - 💞️ I’m looking to collaborate on them goth girls
 - 📫 How to reach me sethtemp0@outlook.com
 
