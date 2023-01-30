@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zetta0
 - 👀 I'm interested in Cybersecurity
-- 🌱 I’m currently studying for eCPPT and PNPT
-- 💞️ I’m looking to collaborate on them goth girls
+- 🌱 I’m currently studying for OSCP
+- 💞️ I’m looking to collaborate on them certifications
 
 <!---
 zetta0/zetta0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
