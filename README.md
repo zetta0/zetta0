@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zetta0
 - 👀 I'm interested in Cybersecurity
-- 🌱 I’m currently studying for OSCP
+- 🌱 I’m currently studying for CRTO
 - 💞️ I’m looking to collaborate on them certifications
 
 <!---
