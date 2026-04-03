@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zetta0
 - 👀 I'm interested in Cybersecurity
-- 🌱 I’m currently studying for BSCP
+- 🌱 I’m currently studying for Master's
 - 💞️ I’m looking to collaborate on them certifications
 - Organizer for DC225  
 <!---
